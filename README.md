@@ -1,6 +1,6 @@
 # Classificação de Imagens Radiográficas Utilizando Rede Neural Convolucional
 
-### Trabalho desenvolvidor pelos acadêmicos:
+### Trabalho desenvolvido pelos acadêmicos:
 
 - [Michel Motta](https://www.facebook.com/michel.mottadasilva)
 - Thiago Machado
@@ -21,7 +21,7 @@ Todos os detalhes sobre a metodologia e processos utilizados no trabalho podem s
 
 ## Implantação do modelo de classificação
 
-O modelo gerado com o treinamento da Rede Neural Convolucional foi utilizado em uma [API desenvolvida em Python](## Descrição do Trabalho). Essa API foi responsável por receber dados em formato JSON e devolver uma resposta em formato Json. Essa resposta é a classificação de cada uma das imagens enviadas. Assim como também foi desenvolvida uma [aplicação FrontEnd](https://github.com/michelmotta/Trabalho-Inteligencia-Artificial/tree/master/client-api) para interagir com a API.
+O modelo gerado com o treinamento da Rede Neural Convolucional foi utilizado em uma [API desenvolvida em Python](https://github.com/michelmotta/Trabalho-Inteligencia-Artificial/tree/master/python-server-api). Essa API foi responsável por receber dados em formato JSON e devolver uma resposta em formato Json. Essa resposta é a classificação de cada uma das imagens enviadas. Assim como também foi desenvolvida uma [aplicação FrontEnd](https://github.com/michelmotta/Trabalho-Inteligencia-Artificial/tree/master/client-api) para interagir com a API.
 
 ## Resultados
 
